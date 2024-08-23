@@ -1,2 +1,3 @@
-# Desafio-TDD-e-Testes-Unitarios
-Projeto Calculadora para Desafio TDD e Testes Unitarios Usando .Net Core
+# Desafio-TDD-e-Testes-Unitarios 💻
+
+Realização do projeto de uma 🧮Calculadora para o Desafio TDD e Testes Unitarios Usando .Net Core
